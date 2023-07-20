@@ -1,0 +1,608 @@
+#wholepage1 .navbar .navbar-brand{
+font-size:30px;
+text-transform:uppercase;
+
+}
+
+#wholepage1 .navbar ul{
+    margin-left:150px;
+}
+#wholepage1 .navbar .icon{
+    margin-left:150px;
+}
+#wholepage1 .navbar .icon i{
+    padding:10px;
+    border:2px solid black;
+    background:lightseagreen;
+    color:black;
+    font-size:20px;
+    border-radius:90px;
+}
+#wholepage1 .navbar .icon i:hover{
+    background:skyblue;
+    color:black;
+    
+}
+
+@media (max-width:375px){
+    #wholepage1 .navbar .navbar-brand{
+        font-size:20px;
+        font-family:optima;
+    }
+    #wholepage1 .navbar{
+        border:2px solid black;
+    }
+    #wholepage1 .navbar .navbar-toggler-icon{
+        font-size:10px;
+        padding:10px;
+        color:blue;
+        
+    }
+    #wholepage1 .navbar .navbar-toggler{
+        background:lightseagreen;
+        border:2px solid black;
+    }
+    #wholepage1 .navbar ul{
+        margin-left:20px;
+    }
+    #wholepage1 .navbar ul a{
+        font-size:15px;
+    }
+    #wholepage1 .navbar .icon{
+        margin-left:-5px;
+        margin-top:20px;
+    }
+    #wholepage1 .navbar .icon i{
+        padding:7px;
+        font-size:18px;
+
+    }
+}
+
+#wholepage2{
+    background-image:url('image1.avif') ;
+    background-repeat:no-repeat ;
+    background-size:1366px 600px;
+    height:500px;
+    width:100%;
+}
+#wholepage2 .card{
+    height:300px;
+    width:400px;
+    padding:20px;
+    float:right;
+    margin-top:100px;
+}
+#wholepage2 .card button{
+    height:40px;
+    width:100px;
+    font-size:13px;
+    border-radius:90px;
+    border:none;
+    background:darkmagenta;
+}
+#wholepage2 .card p{
+    padding-top:10px;
+    font-family:optima;
+}
+#wholepage2 h3{
+    font-family:cambria;
+}
+
+
+
+@media (max-width:375px){
+    #wholepage2{
+        background-size:400px 400px ;
+    }
+    #wholepage2 .card{
+        height:250px;
+        width:250px;
+        margin-top:100px;
+       float:left;
+    }
+    #wholepage2 .card h3{
+font-size:20px;
+    }
+    #wholepage2 .card p{
+font-size:12px;
+    }
+    #wholepage2 .card button{
+font-size:10px;
+    }
+}
+
+#wholepage3 .set1 img{
+    height:300px;
+    width:300px;
+    margin-top:20px;
+    margin-left:25px;
+}
+
+#wholepage3 .set1{
+    margin-top:20px;
+    padding-bottom:25px;
+}
+#wholepage3 .set2 img{
+    height:300px;
+    width:300px;
+    margin-top:20px;
+    margin-left:25px;
+
+}
+
+#wholepage3 .set2{
+    padding-bottom:25px;
+    margin-top:20px;
+}
+#wholepage3 .set3 img{
+    height:300px;
+    width:300px;
+    margin-top:20px;
+    margin-left:25px;
+}
+
+#wholepage3 .set3{
+    padding-bottom:25px;
+    margin-top:20px;
+}
+#wholepage3 h2{
+text-align:center;
+padding-top:20px;
+}
+#wholepage3 p{
+text-align:center;
+text-transform:uppercase;
+padding-top:10px;
+}
+#wholepage3 button{
+    
+        height:40px;
+        width:150px;
+        font-size:15px;
+        border-radius:90px;
+        border:none;
+        background:darkmagenta;
+        margin-left:480px;
+        margin-top:30px;
+        
+    }
+
+
+    @media(max-width:375px){
+       
+        #wholepage3 h2{
+            font-size:20px;
+            margin-top:-100px;
+            font-family:cambria;
+        }
+        #wholepage3 p{
+            font-size:10px;
+            padding-right:30px;
+            padding-left:30px;
+            font-family:optima;
+        }
+        #wholepage3 .set1 img{
+            height:100px;
+            width:100px;
+            margin-left:-5px;
+           
+        }
+        #wholepage3 .set1{
+            background:none;
+        }
+        #wholepage3 .set2{
+            background:none;
+        }
+        #wholepage3 .set3{
+            background:none;
+        }
+        #wholepage3 .set2 img{
+            height:100px;
+            width:100px;
+            margin-left:0px;
+        }
+        #wholepage3 .set3 img{
+            height:100px;
+            width:100px;
+            margin-left:0px;
+        }
+        
+   
+   #wholepage3 button{
+    margin-left:125px;
+    height:30px;
+    width:100px;
+    font-size:10px;
+   }
+}
+
+.wholepage4{
+    height:600px;
+    width:100%;
+    background:darkmagenta;
+    margin-top:-800px;
+}
+@media (max-width:375px){
+    .wholepage4 {
+        height:200px;
+        width:100%;
+        margin-top:-360px;
+    }
+}
+
+
+#wholepage5 {
+    margin-top:250px;
+}
+#wholepage5 h3{
+font-size:35px;
+text-align:center;
+font-family:cambria;
+padding-top:40px;
+color:white;
+}
+#wholepage5 p{
+    text-align:center;
+    font-family:optima;
+    color:white;
+
+}
+
+   
+#wholepage5 .secondrow{
+    margin-top:30px;
+}
+#wholepage5 img{
+    height:200px;
+    width:254px;
+    padding:20px;
+}
+#wholepage5 h4{
+    text-align:center;
+    font-size:16px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+#wholepage5 {
+    height:1200px;
+    width:100%;
+    background:darkmagenta;
+}
+
+@media(max-width:375px)
+{
+    #wholepage5 h3{
+font-family:cambria;
+font-size:20px;
+margin-top:-40px;
+    }
+    #wholepage5 {
+        height:2050px;
+        width:100%;
+
+    }
+    #wholepage5 p{
+font-family:optima;
+font-size:13px;
+padding-right:30px;
+padding-left:30px;
+    }
+    #wholepage5 .card{
+height:220px;
+width:250px;
+margin-left:45px;
+margin-top:10px;
+    }
+    #wholepage5 img{
+        height:180px;
+        width:250px;
+    }
+    #wholepage5 h4{
+        margin-top:-15px;
+    }
+}
+
+
+/*wholepage6*/
+#wholepage6 img{
+    float:right;
+    margin-top:-250px;
+    height:500px;
+    width:700px;
+    margin-right:100px;
+    border:2px solid white;
+}
+#wholepage6 .card{
+    height:300px;
+    width:400px;
+    padding:20px;
+    margin-left:50px;
+    background:black;
+   margin-top:-150px;
+   
+    color:white;
+}
+
+#wholepage6 .card h3{
+
+font-family:cambria;
+
+}
+#wholepage6 .card button{
+    border-radius:50px;
+   height:40px;
+   width:200px;
+    background:purple;
+    padding:5px 10px;
+   
+}
+#wholepage6 .card p{
+font-family:optima;
+}
+
+
+/*media query started*/
+@media (max-width:375px){
+    #wholepage6 .card{
+        height:230px;
+        width:300px;
+        margin-left:35px;
+       
+    }
+    #wholepage6 .card h3{
+font-size:20px;
+    }
+    #wholepage6 .card p{
+font-size:10px;
+    }
+    #wholepage6 .card button{
+
+        font-size:10px;
+        height:30px;
+        width: 90px;
+    }
+    #wholepage6 img{
+        height:300px;
+        width:360px;
+        margin-top:0px;
+        float:left;
+    }
+}
+/*media query completed*/
+
+/*wholepage6 completed*/
+
+#wholepage7 h1{
+text-align:center;
+padding-top:50px;
+font-family:cambria;
+}
+#wholepage7 p{
+text-align:center;
+padding-top:10px;
+font-family:optima;
+}
+#wholepage7 .award1{
+margin-top:30px;
+
+}
+#wholepage7 .award4{
+margin-top:30px;
+}
+#wholepage7 hr{
+    padding:2px;
+    background:black;
+}
+#wholepage7 button{
+    background:purple;
+    border-radius:90px;
+    font-size:15px;
+    margin-left:500px;
+    padding:5px 20px;
+    color:white;
+    border:none;
+    margin-top:30px;
+}
+
+
+@media (max-width:375px){
+    #wholepage7 h1{
+font-size:20px;
+    }
+    #wholepage7 p{
+font-size:10px;
+    }
+
+    #wholepage7 .award1 h2{
+font-size:20px;
+    }
+    #wholepage7 .award1 h6{
+        font-size:10px;
+    }
+    
+    #wholepage7 .award2 h2{
+        font-size:20px;
+    }
+    #wholepage7 .award2 h6{
+        font-size:10px;
+    }
+    
+    #wholepage7 .award3 h2{
+        font-size:20px;
+    }
+    #wholepage7 .award3 h6{
+        font-size:10px;
+    }
+    
+    #wholepage7 .award4 h2{
+        font-size:20px;
+    }
+    #wholepage7 .award4 h6{
+        font-size:10px;
+    }
+    
+    #wholepage7 .award5 h2{
+        font-size:20px;
+    }
+    #wholepage7 .award5 h6{
+        font-size:10px;
+    }
+    
+    #wholepage7 .award6 h2{
+        font-size:20px;
+    }
+    #wholepage7 .award6 h6{
+        
+        font-size:10px;
+
+}
+#wholepage7 button{
+    margin-left:0px;
+    font-size:10px;
+    margin-top:-10px;
+}
+}
+
+
+
+
+
+
+#wholepage8{
+    background-image:url("image21.avif");
+    background-repeat:no-repeat;
+    background-size:1350px 600px;
+    margin-top:50px;
+
+    height:600px;
+    width:100%;
+   
+}
+#wholepage8 h3{
+    padding-top:150px;
+    text-align:center;
+    color:white;
+font-size:40px;
+text-shadow:10px 10px 10px black;
+}
+#wholepage8 .form{
+    border:2px solid white;
+    padding:20px;
+    height:70px;
+    background:white;
+    width:600px;
+    margin-top:100px;
+    margin-left:370px;
+}
+#wholepage8 .form input{
+    padding-right:50px;
+   
+}
+#wholepage8 .form button{
+    background:purple;
+    color:white;
+
+}
+#wholepage8 a{
+    color:white;
+    text-decoration:none;
+}
+#wholepage8 .card{
+    padding:20px;
+    background:purple;
+    color:white;
+    margin-top:40px;
+}
+
+
+
+@media(max-width:375px){
+    #wholepage8 {
+        background-size:600px 400px;
+
+    }
+    #wholepage8 .form{
+        display:flex;
+        flex-direction:column;
+        margin-left:40px;
+        border:none;
+        padding:0px;
+        margin-top:20px;
+        background:none;
+        width:300px;
+    }
+    #wholepage8 input{
+        padding:5px;
+        font-size:10px;
+        margin-top:10px;
+        
+
+    }
+    #wholepage8 .form button{
+        font-size:10px;
+        border:1px solid black;
+        margin-top:10px;
+        padding:5px;
+    }
+    #wholepage8 h3{
+        color:white;
+        padding-top:50px;
+        text-shadow:0px 0px 0px ;
+        font-size:25px;
+    }
+    #wholepage8 {
+       background-size:400px 700px;
+       height:700px;
+       width:100%;
+
+    }
+    
+    #wholepage8 .card h6{
+        font-size:15px;
+    }
+    #wholepage8 .card a{
+        font-size:13px;
+    }
+    #wholepage8 .card h6{
+font-size:15px;
+    }
+    #wholepage8 .card h5{
+font-size:13px;
+    }
+    
+}
+
+
+#wholepage9 h6{
+text-align:center;
+padding-top:20px;
+color:white;
+}
+#wholepage9 p{
+float:right;
+margin-right:40px;
+color:white;
+}
+#wholepage9{
+    height:80px;
+    width:100%;
+    background:darkslategray;
+
+}
+
+
+@media (max-width:375px){
+    #wholepage9{
+       height:60px;
+       width:100%;
+    }
+    #wholepage9 h6{
+        font-size:11px;
+    }
+    #wholepage9 p{
+        font-size:10px;
+        margin-right:10px;
+    }
+}
